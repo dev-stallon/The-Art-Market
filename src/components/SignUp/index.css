@@ -1,0 +1,17 @@
+figCaption {
+  position: absolute;
+  bottom: 2rem;
+  margin: 50rem 8rem;
+  color: white;
+  font-size: 1.5em;
+}
+
+.right-section {
+  position: absolute;
+  bottom: 0rem;
+  opacity: 0.83;
+  background-color: #7d4040;
+  margin: 10rem 12rem;
+  font-size: 1.5rem;
+  padding: 3rem 3rem;
+}

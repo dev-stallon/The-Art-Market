@@ -1,0 +1,45 @@
+.leftStuff {
+  bottom: 30rem;
+  margin: 10rem 2rem;
+  color: white;
+  font-size: 1.3rem;
+}
+
+.rightStuff {
+  bottom: 20rem;
+  margin: 10rem 4rem;
+  background-color: #1912f1;
+  padding: 2rem 2rem;
+  opacity: 0.8;
+  width: fit-content;
+}
+
+.btn {
+  padding: 0.1rem 0.5rem;
+  border-radius: 2rem;
+}
+
+.nav {
+  font-size: 1.3rem;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+.nav-link {
+  color: whitesmoke;
+}
+
+.row {
+  margin-top: 4rem;
+  margin-bottom: 4rem;
+}
+
+.col {
+  margin-left: 2rem;
+  margin-right: 2rem;
+}
+
+.label {
+  background-color: blueviolet;
+  cursor: pointer;
+  padding: 0.5rem;
+}
